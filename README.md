@@ -1,6 +1,6 @@
 🌍 Я живу во Владивостоке  
 👨‍🎓 Учусь в академии нейросетей [The Founder](https://academy.the-founder.ru/)  
-📞 Вы можете связаться со мной по TG: @thefoundator
+📞 Вы можете связаться со мной по TG: [@thefoundator](https://t.me/thefoundator)
 
 👨‍💻 **Обо мне**
 
