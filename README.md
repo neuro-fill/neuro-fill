@@ -36,7 +36,9 @@ ______________________________
 
 **Стек:** Python, scikit-learn, pandas, NLTK, Jupyter Notebook
 
+_____
 
+**Моя цель** — перейти на позицию разработчика нейросетей, где я смогу объединить свой опыт работы с людьми, понимание технологий и навыки разработки, чтобы вносить вклад в инновационные проекты. 
 
 <!---
 neuro-fill/neuro-fill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
